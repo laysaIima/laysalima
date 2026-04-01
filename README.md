@@ -19,11 +19,13 @@
 ---
 
 ## 🛠️ Linguagens e Ferramentas
-![Python](https://shields.io)
-![Java](https://shields.io)
-![JavaScript](https://shields.io)
-![C++](https://shields.io)
-![CSS3](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>)
 
 ---
 
@@ -43,6 +45,14 @@
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/laysa-lima-8a6942261/)
-[![Email](https://shields.io)](laysalsbastos@gmail.com)
-📱 Whastapp: (62) 98533-9309
+<p align="left">
+  <a href="(https://www.linkedin.com/in/laysa-lima-8a6942261/)">
+    <img src="https://shields.io" />
+  </a>
+  <a href="mailto:laysalsbastos@gmail.com">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://wa.me/5562985339309">
+    <img src="https://shields.io" />
+  </a>
+</p>

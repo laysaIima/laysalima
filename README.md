@@ -37,8 +37,8 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="left">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app/" />
+  <img height="180em" src="https://vercel.app/" />
 </p>
 
 ---
